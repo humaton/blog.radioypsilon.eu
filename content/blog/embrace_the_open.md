@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Future: Open-Source Home Automation"
 date: 2023-01-06T17:14:39+02:00
-draft: true
+draft: false
 ---
 
 Imagine walking into your home, and the lights automatically adjust to your preferred brightness, the temperature is set to your liking, and your favorite music starts playing in the background. Welcome to the world of open-source home automation, a revolutionary concept that is rapidly gaining popularity. In this blog post, we'll explore the introduction of open-source home automation, its benefits, and showcase some prominent projects that are driving this movement forward.
