@@ -1,0 +1,5 @@
+baseURL = 'http://blog.radioypsilon.eu'
+languageCode = 'en-us'
+title = 'Jednorozec and his brainfarts'
+theme = ["github.com/setsevireon/photophobia"]
+sectionPagesMenu = 'main'
